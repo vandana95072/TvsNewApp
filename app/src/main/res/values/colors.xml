@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <resources>
+
+    <color name="colorPrimary">#11CFC5</color>
+
+    <color name="colorPrimaryDark">#00574B</color>
+
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="colorOrange">#FFE761</color>
+
+    <color name="colorGreen">#32CD32</color>
+
+    <color name="colorlightseagreen">#20B2AA</color>
+
+    <color name="colorpeachpuff">#FFDAB9</color>
+
+    <color name="colorDarkBlue">#0000FF</color>
+
+    <color name="colort">#DCDCDC</color>
+
+    <color name="logobackground">#11CFC5</color>
+
+    <color name="orangeColor">#FF8c00</color>
+
+    <color name="home_orange">#ffa500</color>
+
+    <color name="black">#000</color>
+
+    <color name="hint_color">#565656</color>
+
+    <color name="themeColor">#eb702f</color>
+
+    <color name="alert">#FFE6171E</color>
+
+</resources>
